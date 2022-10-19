@@ -1,8 +1,8 @@
 import os
 import matplotlib.pyplot as plt
 
-#déclaration du répertoire courant à compléter en remplaçant \ par /
-os.chdir("C:/Users/royer/Dropbox/INFO/TP/TP8 - Lecture-Ecriture de fichiers/8_TP_fichiers")
+#déclaration du répertoire courant
+os.chdir("C:/Users/royer/Documents/INFO/TP/TP8 - Lecture-Ecriture de fichiers/8_TP_fichiers")
 
 #définition de [alphabet]
 alphabet="abcdefghijklmnopqrstuvwxyz"
